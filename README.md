@@ -7,9 +7,9 @@
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"></p>
 <p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shields"></p>
 <h2>how to use🚀</h2>
-*   1:put your email gmail here <code>sender_mail="youremail"</code><i> in line: 22 </i>
-*   2:also in this  <code>recv_mail="youremail"</code><i> in line: 23 </i>
-*   3:put the password smtp gmail:<code>sender_password = "apppassword" </code><i> in line: 24 </i>||<a href="https://saurabh-nakoti.medium.com/how-to-set-up-smtp-in-gmail-using-an-app-password-96adffa164b3">this how to do it</a>
+*   Put your email gmail here <code>sender_mail="youremail"</code><i> in line: 22 </i>
+*   Also in this  <code>recv_mail="youremail"</code><i> in line: 23 </i>
+*   Put the password smtp gmail:<code>sender_password = "apppassword" </code><i> in line: 24 </i>||<a href="https://saurabh-nakoti.medium.com/how-to-set-up-smtp-in-gmail-using-an-app-password-96adffa164b3">this how to do it</a>
 
 
 <h1 align="center">GUI SOON:</h1>
