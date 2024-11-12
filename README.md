@@ -10,12 +10,9 @@
 
 [click here ](here)
 
-<h2>GUI SOON:</h2>
-<div style="display: flex; justify-content: center;">
-    <a href="https://ibb.co/vmCQjwK">
-        <img src="https://i.ibb.co/rMKcw71/Xskeylogger.png" alt="Xskeylogger" border="0">
-    </a>
-</div>
+<h1 align="center">GUI SOON:</h1>
+<a align="center" href="https://ibb.co/vmCQjwK"><img src="https://i.ibb.co/rMKcw71/Xskeylogger.png" alt="Xskeylogger" border="0"></a>
+
 
 
 
