@@ -1,4 +1,4 @@
-<h1 align="center" id="title">keylogger</h1>
+<h1 align="center" id="title">Xskeylogger</h1>
 
 <p align="center"><img src="https://socialify.git.ci/xcyberspy/keylogger/image?font=KoHo&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
@@ -10,9 +10,8 @@
 
 [click here ](here)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://media.licdn.com/dms/image/D4E22AQFrG2PkDCjRRA/feedshare-shrink_800/0/1709414098351?e=1712188800&v=beta&t=qPjOjU6yBj9iqCgI51ao0crMPAi1QZiImr9vmEl1RFg" width="1000" height="400/">
+<h2>GUI SOON:</h2>
+<a href="https://ibb.co/vmCQjwK"><img src="https://i.ibb.co/rMKcw71/Xskeylogger.png" alt="Xskeylogger" border="0"></a>
 
 
 
