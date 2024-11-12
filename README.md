@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Xskeylogger</h1>
 
-<p align="center"><img src="https://socialify.git.ci/xcyberspy/keylogger/image?font=KoHo&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/xcyberspy/Xskeylogger/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Dark"></p>
 
 <p id="description">This project is a simple yet powerful keylogger implemented in python. A keylogger also known as keystroke logging or keyboard capturing is the action of recording (logging) the keys struck on a keyboard typically in a covert manner so that the person using the keyboard is unaware that their actions are being monitored. This keylogger captures keystrokes from the user's keyboard input providing a comprehensive record of all the keys pressed.</p>
 
