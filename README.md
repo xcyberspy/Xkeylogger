@@ -6,6 +6,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"></p>
 <p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shields"></p>
+<h2>🔴live practice:</h2>
+https://youtu.be/DPQAVYTRi5U
 <h2>how to use🚀</h2>
 
 - Put your email gmail here <code>sender_mail="youremail"</code><i> in line: 22 </i>
